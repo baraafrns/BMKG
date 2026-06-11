@@ -1,7 +1,7 @@
 import React from 'react';
 import { EarthquakeWarning } from '../types';
 import { AlertCircle, MapPin, Activity, Clock } from 'lucide-react';
-import { generateBMKGImageUrl } from '../lib/utils';
+import { generateBMKGImageUrl } from '../../lib/utils';
 import { motion } from 'motion/react';
 
 interface WarningWidgetProps {
