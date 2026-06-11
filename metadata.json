@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Weather",
+  "description": "Interactive real-time weather and early warning dashboard using BMKG data.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
